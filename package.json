@@ -1,0 +1,14 @@
+{
+  "name": "monster",
+  "version": "0.0.0",
+  "jam": {
+    "baseUrl": ".",
+    "packageDir": "vendor",
+    "dependencies": {
+      "jquery": "1.7.x",
+      "backbone": null,
+      "underscore": null,
+      "enchantjs": "0.5.1"
+    }
+  }
+}
