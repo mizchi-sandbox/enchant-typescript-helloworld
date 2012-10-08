@@ -1,16 +1,19 @@
+# enchant-with-typescript
+
+This project is enchant.js example which is written by typescript.
 
 ## HOW TO INSTALL
 
 ```sh
-//jamjs
+# jamjs
 npm install -g jamjs
 jam install
 jam compile vendor/all.js
 
-//
-
-```sh
+# compile ts
 tsc src/main.ts --out lib/main.js
+
+open index.html
 ```
 
 
