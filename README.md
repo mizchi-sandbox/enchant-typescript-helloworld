@@ -1,19 +1,13 @@
-# enchant-with-typescript
+# enchant-typescript-helloworld
 
-This project is enchant.js example which is written by typescript.
+enchant.js helloworld project written by typescript
 
-## HOW TO INSTALL
+## HOW TO BUILD
 
 ```sh
-# jamjs
-npm install -g jamjs
-jam install
-jam compile vendor/all.js
-
-# compile ts
-tsc src/main.ts --out lib/main.js
-
-open index.html
+$ npm install -g bower grunt-cli
+$ bower install
+$ npm install
+$ grunt run
+# open http://localhost:8888
 ```
-
-
