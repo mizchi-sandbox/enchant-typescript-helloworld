@@ -1,0 +1,8 @@
+{
+    "name":  "enchant-typescript-helloworld",
+    "version": "0.0.1",
+    "dependencies": {
+        "enchant": "git://github.com/wise9/enchant.js.git",
+        "requirejs": "2.1.1"
+    }
+}
